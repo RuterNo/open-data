@@ -1,6 +1,8 @@
 # open-data
 Open data for mobility in the Greater Oslo area
 
+Small Change
+
 The GTFS data set contains schedule data for public transport in Ruter's area (Oslo & Akershus) as well as the rest of Sourheast Norway.
 
 ## Open APIs
