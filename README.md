@@ -1,7 +1,7 @@
 # open-data
-Open data for mobility in the Greater Oslo area
-
-The GTFS data set contains schedule data for public transport in Ruter's area (Oslo & Akershus) as well as the rest of Sourheast Norway.
+Norway is finally united - public transport - wise 😍. On 2017-11-02, our good friends in Entur launched the Norwegian national travel planner, as well as a platform for open public transport data and APIs.
+At Ruter Labs, we will encourage all users to migrate to Entur's open platform at http://dev.entur.org for open data on GTFS and NeTEx formats, as we will discontinue our own open data publishing here on Github in January 2018.
+Entur also has a first version of their open API platform, but are working on an improved version, so you could stick to our REIS API which will be maintained by us until further notice. We will let you know when it's time to kiss goodbye! 😘
 
 ## Open APIs
 
